@@ -15,7 +15,20 @@ public class UnrefactoredPlayerController : MonoBehaviour
 
     private void Update()
     {
+        GetInput();
         
+        switch(state)
+        {
+            case PlayerControllerState.Idle:
+                Idle();
+                break;
+            case PlayerControllerState.Walk:
+                Walk();
+                break;
+            case PlayerControllerState.jump:
+                Jump();
+                break;
+        }
     }
 
     private void GetInput()
@@ -25,6 +38,16 @@ public class UnrefactoredPlayerController : MonoBehaviour
 
     private void Walk()
     {
-        
+        // 걷기 로직
+    }
+
+    private void Idle()
+    {
+        // 대기 상태 로직
+    }
+
+    private void Jump()
+    {
+        // 점프 로직
     }
 }
