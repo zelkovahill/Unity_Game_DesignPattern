@@ -20,6 +20,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object Pool/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object Pool/RevisedGun.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SOLID/Dependency Inversion Principle/Switch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SOLID/Interface Segregation Principle/ExplodingBarrel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SOLID/The Liskov Substitution Principle/RoadVehicle.cs" root0="FORCE_HIGHLIGHTING" />
@@ -103,6 +104,7 @@
       <workItem from="1718893576406" duration="2000" />
       <workItem from="1718893874816" duration="2212000" />
       <workItem from="1719043549797" duration="1238000" />
+      <workItem from="1719044901619" duration="1695000" />
     </task>
     <servers />
   </component>
